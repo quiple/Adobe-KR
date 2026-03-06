@@ -130,10 +130,6 @@ The 268 hanja that are genuine duplicates are handled by mapping, via the Unicod
 
 Supplement 8 adds 3,622 glyphs, specifically CIDs 18858 through 22479, for additional hanja beyond those in Supplement 7. Glyphs for the 2,856 hanja in the KS X 1002 character set standard are included. The rest of the glyphs in Supplement 8 are mainly for hanja that are included in the [*Inmyeong-yong Hanja*](https://help.scourt.go.kr/nm/images/hanja/hanja_2015.pdf) (인명용 한자/人名用漢字) set that is published by the Supreme Court of Korea (*Daebeobwon*/대법원/大法院), 665 of which are encoded in the URO and Extensions A, B, E, and F. 18 are supported by the IVD (Ideographic Variation Database) via the registered KRName IVD collection, and one outlier will be in Extension G and is therefore not yet encoded. Also included are 81 additional hanja, 73 of which are from GB/T 12052 (PRC), with the remaining eight from KPS 9566 (DPRK).
 
-### Special Notes
-
-Although the CID that corresponds to the glyph for Extension G ideograph ⿰氵恩, CID+22461, is stable, its identity&mdash;as specified in the fourth column of the [*Adobe-KR-9_ordering.txt*](https://github.com/adobe-type-tools/Adobe-KR/raw/master/Adobe-KR-9_ordering.txt) ordering file as the glyph named *u01200*, named after its U-Source source reference, UTC-01200&mdash;will eventually change to reflect the final Extension G code point, and it will then become encoded.
-
 ---
 ## Supplement 9—Adobe-KR-9
 
